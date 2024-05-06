@@ -47,11 +47,11 @@ const Footer = () => {
                     alt=""
                   />
                   <a
-                    href="https://t.me/Bekisfirst_bot/"
+                    href="https://t.me/chorbogosh_bot/"
                     target="_blank"
                     className="link-block-7 w-inline-block"
                   >
-                    <div className="text-block-15">@Bekisfirst_bot</div>
+                    <div className="text-block-15">@chorbogosh_bot</div>
                   </a>
                 </div>
                 <div className="social-media">
